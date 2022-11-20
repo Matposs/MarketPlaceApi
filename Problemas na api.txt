@@ -1,0 +1,6 @@
+- O alterar está criando um novo consumidor quando não se informa o id correto
+- o mesmo ocorre no produto
+- Quando vou criar a folha de pagamento ou no meu caso, a venda, aonde teria a relação de produtos, consumidor, é criado um novo produto e um novo consumidor
+
+
+	

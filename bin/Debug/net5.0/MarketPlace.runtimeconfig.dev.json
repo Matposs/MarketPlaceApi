@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Patheus Moss\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Patheus Moss\\.nuget\\packages"
+    ]
+  }
+}
